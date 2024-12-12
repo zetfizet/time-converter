@@ -10,7 +10,7 @@ A desktop application built in Java Swing that allows users to convert between v
 - Real-time conversion results displayed upon calculation.
 
 ## Screenshot
-![Screenshot](assets\1.0.png)  
+![assets\1.0.png](assets\1.0.png)  
 
 ## Getting Started
 
